@@ -1,0 +1,63 @@
+    1  mamba env create -f environment.yaml 
+    2  mamba env remove deeptransfer
+    3  mamba env remove -h
+    4  mamba env remove -n deeptransfer
+    5  mamba env create -f environment.yaml 
+    6  conda activate deeptransfer
+    7  python main.py -h
+    8  mamba install pyqt
+    9  python main.py -h
+   10  mamba install PyQt5
+   11  pip install PyQt5
+   12  pip3 install PyQt5
+   13  python main.py -h
+   14  which python
+   15  which pip3
+   16  which pip
+   17  pip install PyQt5
+   18  pip install PyQt5 --upgrade
+   19  pip install --upgrade pip
+   20  mamba -h
+   21  mamba search 
+   22  mamba search PyQt5
+   23  mamba install pyqt
+   24  python main.py -h
+   25* pip uninstall matplotlib 
+   26  upgrade pip
+   27  pip install --upgrade pip
+   28  pip install matplotlib
+   29  python main.py -h
+   30  pip install torchvision
+   31  python main.py -h
+   32  mamba install torchvision
+   33* mamba install torchvision
+   34  conda deactivate
+   35  mamba env remove -n deeptransfer
+   36  mamba env create -f environment.yaml 
+   37  conda activate deeptransfer
+   38  python main.py -h
+   39  pip install --upgrade pip
+   40  pip install cython
+   41  pip install --upgrade pip
+   42  pip install mkl-random
+   43  pip install PyQT5
+   44  python main.py -h
+   45  which pip
+   46  which python
+   47  mamba install pyqt
+   48  python main.py -h
+   49  mamba install matplotlib
+   50  pip uninstall matplotlib
+   51  mamba uninstall matplotlib
+   52  pip install matplotlib
+   53  python main.py -h
+   54  conda env -h
+   55  conda env export -h
+   56  conda env export > myenv.yml
+   57  python main.py -h
+   58  python main.py --no-cuda --outDir outputs  --outPrefix outmix --content contents --style styles
+   59  python main.py --no-cuda --outDir outputs  --outPrefix outmix --content inputs/contents --style inputs/styles
+   60  git status
+   61  git add *
+   62  git status
+   63  history > bashhistory.txt

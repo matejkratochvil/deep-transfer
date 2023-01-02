@@ -32,7 +32,7 @@ Available modalities are:
 ## Usage
 `python main.py ARGS`
 
-Possible ARGS are:
+Possible ARGS are: e
 +  `-h, --help` show this help message and exit;
 +  `--content CONTENT` path of the content image (or a directory containing images) to be trasformed;
 +  `--style STYLE` path of the style image (or a directory containing images) to use;
