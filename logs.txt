@@ -1,0 +1,40 @@
+2023-01-02 01:15:05,184 - [INFO] - log_utils - Utilizing the cpu for computations
+2023-01-02 01:15:05,184 - [INFO] - log_utils - Creating content and style pairs dataset object
+2023-01-02 01:15:05,185 - [INFO] - log_utils - Adding: ('inputs/contents/15EE95FB-9CFB-4778-AB94-83ED1C0DF4E0.jpeg', 'inputs/styles/cyberpunkninja.jpeg') to the dataset
+2023-01-02 01:15:05,185 - [INFO] - log_utils - Adding: ('inputs/contents/15EE95FB-9CFB-4778-AB94-83ED1C0DF4E0.jpeg', 'inputs/styles/F60467E3-EB1E-4F62-894A-5112BDFA0112.jpeg') to the dataset
+2023-01-02 01:15:05,185 - [INFO] - log_utils - Adding: ('inputs/contents/15EE95FB-9CFB-4778-AB94-83ED1C0DF4E0.jpeg', 'inputs/styles/drawingmiley.jpeg') to the dataset
+2023-01-02 01:15:05,185 - [INFO] - log_utils - Adding: ('inputs/contents/15EE95FB-9CFB-4778-AB94-83ED1C0DF4E0.jpeg', 'inputs/styles/cyberpunker.jpeg') to the dataset
+2023-01-02 01:15:05,186 - [INFO] - log_utils - Adding: ('inputs/contents/15EE95FB-9CFB-4778-AB94-83ED1C0DF4E0.jpeg', 'inputs/styles/mileydrawn2.jpeg') to the dataset
+2023-01-02 01:15:05,186 - [INFO] - log_utils - Adding: ('inputs/contents/15EE95FB-9CFB-4778-AB94-83ED1C0DF4E0.jpeg', 'inputs/styles/cyberpunkroof.jpeg') to the dataset
+2023-01-02 01:15:05,186 - [INFO] - log_utils - Adding: ('inputs/contents/15EE95FB-9CFB-4778-AB94-83ED1C0DF4E0.jpeg', 'inputs/styles/tiger.jpg') to the dataset
+2023-01-02 01:15:05,186 - [INFO] - log_utils - Adding: ('inputs/contents/CF5BBDF8-D28C-402A-8387-8A9CAFFB5012.jpeg', 'inputs/styles/cyberpunkninja.jpeg') to the dataset
+2023-01-02 01:15:05,187 - [INFO] - log_utils - Adding: ('inputs/contents/CF5BBDF8-D28C-402A-8387-8A9CAFFB5012.jpeg', 'inputs/styles/F60467E3-EB1E-4F62-894A-5112BDFA0112.jpeg') to the dataset
+2023-01-02 01:15:05,187 - [INFO] - log_utils - Adding: ('inputs/contents/CF5BBDF8-D28C-402A-8387-8A9CAFFB5012.jpeg', 'inputs/styles/drawingmiley.jpeg') to the dataset
+2023-01-02 01:15:05,188 - [INFO] - log_utils - Adding: ('inputs/contents/CF5BBDF8-D28C-402A-8387-8A9CAFFB5012.jpeg', 'inputs/styles/cyberpunker.jpeg') to the dataset
+2023-01-02 01:15:05,188 - [INFO] - log_utils - Adding: ('inputs/contents/CF5BBDF8-D28C-402A-8387-8A9CAFFB5012.jpeg', 'inputs/styles/mileydrawn2.jpeg') to the dataset
+2023-01-02 01:15:05,188 - [INFO] - log_utils - Adding: ('inputs/contents/CF5BBDF8-D28C-402A-8387-8A9CAFFB5012.jpeg', 'inputs/styles/cyberpunkroof.jpeg') to the dataset
+2023-01-02 01:15:05,189 - [INFO] - log_utils - Adding: ('inputs/contents/CF5BBDF8-D28C-402A-8387-8A9CAFFB5012.jpeg', 'inputs/styles/tiger.jpg') to the dataset
+2023-01-02 01:15:05,189 - [INFO] - log_utils - Adding: ('inputs/contents/D4E8CFDB-FB70-419F-98FA-4BAD9AA77A40.jpeg', 'inputs/styles/cyberpunkninja.jpeg') to the dataset
+2023-01-02 01:15:05,190 - [INFO] - log_utils - Adding: ('inputs/contents/D4E8CFDB-FB70-419F-98FA-4BAD9AA77A40.jpeg', 'inputs/styles/F60467E3-EB1E-4F62-894A-5112BDFA0112.jpeg') to the dataset
+2023-01-02 01:15:05,190 - [INFO] - log_utils - Adding: ('inputs/contents/D4E8CFDB-FB70-419F-98FA-4BAD9AA77A40.jpeg', 'inputs/styles/drawingmiley.jpeg') to the dataset
+2023-01-02 01:15:05,191 - [INFO] - log_utils - Adding: ('inputs/contents/D4E8CFDB-FB70-419F-98FA-4BAD9AA77A40.jpeg', 'inputs/styles/cyberpunker.jpeg') to the dataset
+2023-01-02 01:15:05,191 - [INFO] - log_utils - Adding: ('inputs/contents/D4E8CFDB-FB70-419F-98FA-4BAD9AA77A40.jpeg', 'inputs/styles/mileydrawn2.jpeg') to the dataset
+2023-01-02 01:15:05,192 - [INFO] - log_utils - Adding: ('inputs/contents/D4E8CFDB-FB70-419F-98FA-4BAD9AA77A40.jpeg', 'inputs/styles/cyberpunkroof.jpeg') to the dataset
+2023-01-02 01:15:05,193 - [INFO] - log_utils - Adding: ('inputs/contents/D4E8CFDB-FB70-419F-98FA-4BAD9AA77A40.jpeg', 'inputs/styles/tiger.jpg') to the dataset
+2023-01-02 01:15:05,193 - [INFO] - log_utils - Adding: ('inputs/contents/6DE9641E-D97E-44E4-A75E-16C16129B292.jpeg', 'inputs/styles/cyberpunkninja.jpeg') to the dataset
+2023-01-02 01:15:05,194 - [INFO] - log_utils - Adding: ('inputs/contents/6DE9641E-D97E-44E4-A75E-16C16129B292.jpeg', 'inputs/styles/F60467E3-EB1E-4F62-894A-5112BDFA0112.jpeg') to the dataset
+2023-01-02 01:15:05,194 - [INFO] - log_utils - Adding: ('inputs/contents/6DE9641E-D97E-44E4-A75E-16C16129B292.jpeg', 'inputs/styles/drawingmiley.jpeg') to the dataset
+2023-01-02 01:15:05,195 - [INFO] - log_utils - Adding: ('inputs/contents/6DE9641E-D97E-44E4-A75E-16C16129B292.jpeg', 'inputs/styles/cyberpunker.jpeg') to the dataset
+2023-01-02 01:15:05,195 - [INFO] - log_utils - Adding: ('inputs/contents/6DE9641E-D97E-44E4-A75E-16C16129B292.jpeg', 'inputs/styles/mileydrawn2.jpeg') to the dataset
+2023-01-02 01:15:05,196 - [INFO] - log_utils - Adding: ('inputs/contents/6DE9641E-D97E-44E4-A75E-16C16129B292.jpeg', 'inputs/styles/cyberpunkroof.jpeg') to the dataset
+2023-01-02 01:15:05,196 - [INFO] - log_utils - Adding: ('inputs/contents/6DE9641E-D97E-44E4-A75E-16C16129B292.jpeg', 'inputs/styles/tiger.jpg') to the dataset
+2023-01-02 01:15:05,197 - [INFO] - log_utils - Adding: ('inputs/contents/2890C176-2006-4CB4-8F00-6B35CD38521D.jpeg', 'inputs/styles/cyberpunkninja.jpeg') to the dataset
+2023-01-02 01:15:05,198 - [INFO] - log_utils - Adding: ('inputs/contents/2890C176-2006-4CB4-8F00-6B35CD38521D.jpeg', 'inputs/styles/F60467E3-EB1E-4F62-894A-5112BDFA0112.jpeg') to the dataset
+2023-01-02 01:15:05,199 - [INFO] - log_utils - Adding: ('inputs/contents/2890C176-2006-4CB4-8F00-6B35CD38521D.jpeg', 'inputs/styles/drawingmiley.jpeg') to the dataset
+2023-01-02 01:15:05,199 - [INFO] - log_utils - Adding: ('inputs/contents/2890C176-2006-4CB4-8F00-6B35CD38521D.jpeg', 'inputs/styles/cyberpunker.jpeg') to the dataset
+2023-01-02 01:15:05,200 - [INFO] - log_utils - Adding: ('inputs/contents/2890C176-2006-4CB4-8F00-6B35CD38521D.jpeg', 'inputs/styles/mileydrawn2.jpeg') to the dataset
+2023-01-02 01:15:05,200 - [INFO] - log_utils - Adding: ('inputs/contents/2890C176-2006-4CB4-8F00-6B35CD38521D.jpeg', 'inputs/styles/cyberpunkroof.jpeg') to the dataset
+2023-01-02 01:15:05,201 - [INFO] - log_utils - Adding: ('inputs/contents/2890C176-2006-4CB4-8F00-6B35CD38521D.jpeg', 'inputs/styles/tiger.jpg') to the dataset
+2023-01-02 01:15:05,202 - [INFO] - log_utils - Using multi-level stylization pipeline
+2023-01-02 01:15:08,334 - [INFO] - log_utils - Starting 0/35 stylization iteration
+2023-01-02 01:15:08,335 - [INFO] - log_utils - content: ['inputs/contents/15EE95FB-9CFB-4778-AB94-83ED1C0DF4E0.jpeg']	style: ['inputs/styles/cyberpunkninja.jpeg']
