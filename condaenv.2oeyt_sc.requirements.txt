@@ -1,0 +1,6 @@
+cython
+matplotlib
+pip
+pyqt5
+pyqt5-qt5
+pyqt5-sip

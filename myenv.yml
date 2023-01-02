@@ -6,7 +6,7 @@ channels:
 dependencies:
   - _libgcc_mutex=0.1=conda_forge
   - _openmp_mutex=4.5=2_gnu
-  - blas=1.0=mkl
+  - blas=1.0
   - bzip2=1.0.8=h7f98852_4
   - ca-certificates=2022.10.11=h06a4308_0
   - certifi=2021.5.30=py36h06a4308_0
